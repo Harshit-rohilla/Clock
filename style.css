@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #121212d1;
+    height: 100vh;
+}
+#clock{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    border-radius: 20px;
+    text-align: center;
+    padding-top:30px ;
+    font-size: xx-large;
+}
